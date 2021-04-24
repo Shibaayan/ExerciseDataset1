@@ -44,7 +44,7 @@ Please prepare an .xlsx document answering the following questions.
 6. Fetch the names of the users who usually have to work on weekends.
 <ID>,<Name>,<DateOfBirth>,<Occupation>,<Industry>,<JobDescription>
 
-7. Fetch the names where users submitted the form in between 12:00 am to 06:00 pm? Display the table in below format.
+7. Fetch the names where users submitted the form in between 12:00 am to 06:00 am. Display the table in below format.
 <ID>,<Name>,<DateOfBirth>,<DataInputTime>,<DataInputDate>
 
 8. Fetch the <Name> of the users who share the same Date of Births. Display the table in below format.
